@@ -12,7 +12,7 @@ from urllib.parse import urlparse
 API_ID = 38292208
 API_HASH = "db8848c255b56619b1f679455358edf0"
 BOT_TOKEN = "8730215817:AAF0pIn0TtP_-bVy_mvTX3xEgHVKrCYDuHo" # Replace with your Bot Token
-ADMIN_ID = [7783970181, 7579216160] # Replace with your Admin ID(s)
+ADMIN_ID = [7783970181, 7579216160, 7957253806, 8474148513, 5248531485] # Replace with your Admin ID(s)
 GROUP_ID = -1003889764318 # Replace with your Group ID
 
 # Files
